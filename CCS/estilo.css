@@ -1,0 +1,78 @@
+
+@media(max-width:600px){
+    /*Celular*/
+    body{
+        background-color: rgb(243, 9, 126);
+    }
+    #logo{
+       border-radius: 60px;
+    }
+    .subtitulo{
+        position:absolute
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+        
+    }
+}
+@media(max-width:999px){
+    /*tablet*/
+    
+    body{
+        background-color: #be075c;
+    }
+    #logo{
+        border-radius: 60px;
+     }
+     .subtitulo{
+         position:absolute
+     }
+     #ropa{
+         border-radius: 50px;
+     }
+     #ropa{
+         border-radius: 50px;
+     }
+     #ropa{
+         border-radius: 50px;
+     }
+     #ropa{
+         border-radius: 50px;
+         
+     }
+
+}
+@media(min-width:1000px){
+    /*Compu*/
+    body{
+        background-color: rgb(247, 108, 177);
+    }
+    #logo{
+       border-radius: 60px;
+    }
+    .subtitulo{
+        position:absolute
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+        
+    }
+}

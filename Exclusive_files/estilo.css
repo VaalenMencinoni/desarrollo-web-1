@@ -1,0 +1,50 @@
+
+@media(max-width:600px){
+    body{
+        background-color: rgb(243, 9, 126);
+    }
+    #logo{
+       border-radius: 60px;
+    }
+    .subtitulo{
+        position:absolute
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+        
+    }
+}
+@media(min-width:1000px){
+    body{
+        background-color: rgb(248, 89, 169);
+    }
+    #logo{
+       border-radius: 60px;
+    }
+    .subtitulo{
+        position:absolute
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+    }
+    #ropa{
+        border-radius: 50px;
+        
+    }
+}
+
